@@ -3,7 +3,7 @@
 Built end-to-end ML pipeline for weather prediction using Python. Trained RandomForest, XGBoost & LightGBM models on 3 years historical data achieving 95% accuracy for weather classification & 0.12°C RMSE for temperature prediction. Features real-time API integration, automated alerts, hourly forecasts & interactive visualizations.
 
 
-![dashboard]((https://github.com/Ilknur-Gezer/weather-forecast/blob/main/current_conditions_dashboard.png))
+![dashboard](https://github.com/Ilknur-Gezer/weather-forecast/blob/main/current_conditions_dashboard.png)
 
 ## 🎯 Features
 
